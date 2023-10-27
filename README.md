@@ -66,6 +66,4 @@
 
 There are all my [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
 
-<img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api/top-langs/?username=limingpu123456&theme=merko&layout=compact" />
-<img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api?username=limingpu123456&show_icons=true&theme=merko&count_private=true" />
 
