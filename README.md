@@ -22,7 +22,7 @@
 ### こんにちは！ 👋
 
 - 👋 Hi, I’m [@lixiaopu](https://github.com/limingpu123456)
-- 👀 I’m interested in Web, Web backend and Iot development
+- 👀 I’m interested in Web frontend, Web backend and Iot development
 - 🌱 I’m preparing to learn Web 3D
 - 📫 Contact me : 85180586@qq.com
 - 🤔 I’m looking for help with some open source project to promote my ability to coding
