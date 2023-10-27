@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m [@lixiaopu](https://github.com/limingpu123456)
 - 👀 I’m interested in Web, Web backend and Iot development
-- 🌱 I’m currently learning Web 3D
+- 🌱 I’m preparing to learn Web 3D
 - 📫 Contact me : 85180586@qq.com
 - 🤔 I’m looking for help with some open source project to promote my ability to coding
 
@@ -29,7 +29,7 @@
 ![NodeJs](https://img.shields.io/badge/-NodeJs-FF7D40?style=flat-square&logo=Node.js&logoColor=00d632)
 ![Express](https://img.shields.io/badge/-Express-DC382D?style=flat-square&logo=express&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-DC382D?style=flat-square&logo=django&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-23F7DF1C?style=flat-square&logo=mysql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MS-MySQL-23F7DF1C?style=flat-square&logo=mysql&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-23F7DF1C?style=flat-square&logo=qt&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-5391FE?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-3373A7?style=flat-square&logo=tensorflow&logoColor=ffffff)
