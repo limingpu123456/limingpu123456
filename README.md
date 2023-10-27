@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.csdn.net//partworld?type=blog/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://blog.csdn.net//partworld?type=blog/"><img src="https://img.shields.io/badge/CSDN-李小浦-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=chenmeilong" alt="访问量统计" />
   </div>
@@ -53,6 +53,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker)
 
 ### Some of my repo :office_worker:
+<!--展示项目用这个链接的，还能直接跳转到项目的github-->
 <!--- [【FileMaster-frontend】一个基于React的文件管理器，你可以轻松地操作服务器文件](https://github.com/chenmeilong/FileMaster-frontend)
 - [【GPSS】一个毕设选题系统，采用Vue+Django式全栈开发](https://github.com/chenmeilong/GPSS)
 - [【FCSECS】一个基于数字孪生的冷库控制系统，0到1实现嵌入式到WEB的全栈开发](https://github.com/chenmeilong/FCSECS)
@@ -63,7 +64,7 @@
 <!--链接项目的-->
 <!--<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">-->
 
-There are some [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
+There are all my [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
 
 <img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api/top-langs/?username=limingpu123456&theme=merko&layout=compact" />
 <img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api?username=limingpu123456&show_icons=true&theme=merko&count_private=true" />
