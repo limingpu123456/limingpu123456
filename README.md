@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lxp 李小浦&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);りめほん 李小浦&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -44,8 +44,8 @@
 ![React](http://img.shields.io/badge/-React-6DB33F?style=flat-square&logo=react&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-FF7D40?style=flat-square&logo=Node.js&logoColor=00d632)
 ![Express](https://img.shields.io/badge/-Express-DC382D?style=flat-square&logo=express&logoColor=ffffff)
-![koa](https://img.shields.io/badge/-koa-F9423A?style=flat-square&logo=koa&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-003B57?style=flat-square&logo=spring&logoColor=ffffff)
+![koa](https://img.shields.io/badge/-koa-F9423A?style=flat-square&logo=koa&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4169E1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-23F73F1C?style=flat-square&logo=springboot&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-5391FE?style=flat-square&logo=pytorch&logoColor=ffffff)
