@@ -1,9 +1,25 @@
-### Hi there 👋
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lxp 李小浦&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
-<!-- [![wakatime](https://wakatime.com/badge/user/ff2fd02f-93f5-46d4-af69-146d00163dbe.svg)](https://wakatime.com/@ff2fd02f-93f5-46d4-af69-146d00163dbe)
-[![github](https://img.shields.io/github/followers/Undertone0809?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) -->
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-![](https://komarev.com/ghpvc/?username=chenmeilong)
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://blog.csdn.net//partworld?type=blog/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=chenmeilong" alt="访问量统计" />
+  </div>
+<p><b>Technology has the power to make the world a better place</b></p>
+</div>
+
+### こんにちは！ 👋
 
 - 👋 Hi, I’m [@lixiaopu](https://github.com/limingpu123456)
 - 👀 I’m interested in Web, Web backend and Iot development
@@ -19,8 +35,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](http://img.shields.io/badge/SQL-FF7F50?style=flat-square&logo=%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=strava&logoColor=white)
+![SQL](http://img.shields.io/badge/SQL-FF7F50?style=flat-square&logo=sqlite&logoColor=ffffff)
 
 #### Develop:
 <!-- **Develop:** -->
@@ -28,9 +44,10 @@
 ![React](http://img.shields.io/badge/-React-6DB33F?style=flat-square&logo=react&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-FF7D40?style=flat-square&logo=Node.js&logoColor=00d632)
 ![Express](https://img.shields.io/badge/-Express-DC382D?style=flat-square&logo=express&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-DC382D?style=flat-square&logo=django&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-23F7DF1C?style=flat-square&logo=mysql&logoColor=ffffff)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-23F7DF1C?style=flat-square&logo=qt&logoColor=ffffff)
+![koa](https://img.shields.io/badge/-koa-F9423A?style=flat-square&logo=koa&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-003B57?style=flat-square&logo=spring&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4169E1?style=flat-square&logo=mysql&logoColor=ffffff)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-23F73F1C?style=flat-square&logo=springboot&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-5391FE?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-3373A7?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker)
@@ -49,6 +66,6 @@ There are some [tiny repo](https://github.com/limingpu123456?page=1&tab=reposito
 
 <img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api/top-langs/?username=limingpu123456&theme=merko&layout=compact" />
 <img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api?username=chenmeilong&show_icons=true&theme=merko&count_private=true" />
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=Lorin-github)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--链接项目的-->
 <!--<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">-->
