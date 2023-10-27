@@ -60,12 +60,11 @@
 - [【commodity-etoucher】一个AI抠图器，拥有在线、离线版支持](https://github.com/chenmeilong/commodity-etoucher)
 - [【whale】Humpback Whale Identification, kaggle座头鲸识别赛](https://github.com/chenmeilong/whale)
 - [【IndoorEnvironmentMonitoringSystem】一个采用嵌入式、上位机、AI、BIM和Web实现的室内环境监测系统](https://github.com/chenmeilong/IndoorEnvironmentMonitoringSystem)-->
-
+<!--链接项目的-->
+<!--<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">-->
 
 There are some [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
 
 <img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api/top-langs/?username=limingpu123456&theme=merko&layout=compact" />
-<img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api?username=chenmeilong&show_icons=true&theme=merko&count_private=true" />
+<img width="500px" src="https://github-readme-stats-zeeland.vercel.app/api?username=limingpu123456&show_icons=true&theme=merko&count_private=true" />
 
-<!--链接项目的-->
-<!--<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">-->
