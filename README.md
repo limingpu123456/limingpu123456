@@ -65,7 +65,7 @@
 <!--<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">-->
 - [【lodash-source-code】用JS手写lodash库，实现库中80%以上的函数并跑通测试用例](https://github.com/limingpu123456/lodash-source-code)
 - [【community】AI智慧社区管理平台，基于SpringBoot，Redis，AI人脸识别接口，百度地图接口，ECharts 图表分析数据](https://github.com/limingpu123456/community)
-- [【petting】基于springboot+vue的宠物交易/领养系统，使用websocket实现卖家买家之间实时沟通](https://github.com/limingpu123456/petting)
+- [【petting】毕设基于springboot+vue的宠物交易/领养系统，使用websocket实现卖家买家之间实时沟通](https://github.com/limingpu123456/petting)
 
 There are all my [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
 
