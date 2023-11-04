@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
@@ -53,19 +53,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker)
 
 ### Some of my repo :office_worker:
-<!--展示项目用这个链接的，还能直接跳转到项目的github-->
-<!--- [【FileMaster-frontend】一个基于React的文件管理器，你可以轻松地操作服务器文件](https://github.com/chenmeilong/FileMaster-frontend)
-- [【GPSS】一个毕设选题系统，采用Vue+Django式全栈开发](https://github.com/chenmeilong/GPSS)
-- [【FCSECS】一个基于数字孪生的冷库控制系统，0到1实现嵌入式到WEB的全栈开发](https://github.com/chenmeilong/FCSECS)
-- [【SPS】一个声呐处理系统，PyQt实现多种声呐二进制数据批量解析，瀑布流，拼接，目标检测、标注、存储等功能](https://github.com/chenmeilong/SPS)
-- [【commodity-etoucher】一个AI抠图器，拥有在线、离线版支持](https://github.com/chenmeilong/commodity-etoucher)
-- [【whale】Humpback Whale Identification, kaggle座头鲸识别赛](https://github.com/chenmeilong/whale)
-- [【IndoorEnvironmentMonitoringSystem】一个采用嵌入式、上位机、AI、BIM和Web实现的室内环境监测系统](https://github.com/chenmeilong/IndoorEnvironmentMonitoringSystem)-->
-<!--链接项目的-->
-<!--<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">-->
-- [【lodash-source-code】用JS手写lodash库，实现库中80%以上的函数并跑通测试用例](https://github.com/limingpu123456/lodash-source-code)
-- [【community】AI智慧社区管理平台，基于SpringBoot，Redis，AI人脸识别接口，百度地图接口，ECharts 图表分析数据](https://github.com/limingpu123456/community)
-- [【petting】毕设基于springboot+vue的宠物交易/领养系统，使用websocket实现卖家买家之间实时沟通](https://github.com/limingpu123456/petting)
+- [【FileMaster】一个基于React的文件管理器🎁，你可以轻松地操作服务器文件](https://github.com/limingpu123456/FileMaster)
+- [【Index-web】极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统](https://github.com/limingpu123456/Index-Web)
+- [【mini-react】手写模拟实现React的主流程源码🎄，加深对React源码的理解](https://github.com/limingpu123456/mini-react)
+- [【mini-vue】手写模拟实现Vue3的主流程源码🎀，加深对Vue源码的理解](https://github.com/limingpu123456/mini-vue)
+- [【React18-antd】手写实现Ant DesigeUI组件库中部分UI组件，用于巩固TS和React的基础能力](https://github.com/limingpu123456/react18-antd)
+- [【Lodash-source-code】用JS实现lodash库🎭，实现库中80%以上的函数并跑通测试用例，用于巩固JS基础能力](https://github.com/limingpu123456/lodash-source-code)
+- [【Community】AI智慧社区管理平台🎢，基于SpringBoot，Redis，AI人脸识别接口，百度地图接口，ECharts 图表分析数据](https://github.com/limingpu123456/community)
+- [【petting】毕设基于springboot+vue的宠物交易/领养系统🎨，使用websocket实现卖家买家之间实时沟通](https://github.com/limingpu123456/petting)
 
 There are all my [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
 
