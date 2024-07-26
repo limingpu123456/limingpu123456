@@ -53,7 +53,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker)
 
 ### Some of my repo :office_worker:
-- [【FileMaster】一个基于React的文件管理器🎁，你可以轻松地操作服务器文件](https://github.com/limingpu123456/FileMaster)
+<!--- [【FileMaster】一个基于React的文件管理器🎁，你可以轻松地操作服务器文件](https://github.com/limingpu123456/FileMaster)-->
 - [【Index-web】极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统](https://github.com/limingpu123456/Index-Web)
 - [【mini-react】手写模拟实现React的主流程源码🎄，加深对React源码的理解](https://github.com/limingpu123456/mini-react)
 - [【Lodash-source-code】用JS实现lodash库🎭，实现库中80%以上的函数并跑通测试用例，用于巩固JS基础能力](https://github.com/limingpu123456/lodash-source-code)
