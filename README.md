@@ -54,11 +54,11 @@
 
 ### Some of my repo :office_worker:
 <!--- [【FileMaster】一个基于React的文件管理器🎁，你可以轻松地操作服务器文件](https://github.com/limingpu123456/FileMaster)-->
- [【Index-web】极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统](https://github.com/limingpu123456/Index-Web)
-<!-- [【mini-react】手写模拟实现React的主流程源码🎄，加深对React源码的理解](https://github.com/limingpu123456/mini-react)-->
+- [【Index-web】极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统](https://github.com/limingpu123456/Index-Web)
+<!--- [【mini-react】手写模拟实现React的主流程源码🎄，加深对React源码的理解](https://github.com/limingpu123456/mini-react)-->
 - [【Lodash-source-code】用JS实现lodash库🎭，实现库中80%以上的函数并跑通测试用例，用于巩固JS基础能力](https://github.com/limingpu123456/lodash-source-code)
-<!-- [【React18-antd】手写实现Ant DesigeUI组件库中部分UI组件✨，用于巩固TS和React的基础能力](https://github.com/limingpu123456/react18-antd)-->
-<!-- [【Community】AI智慧社区管理平台🎢，基于SpringBoot，Redis，AI人脸识别接口，百度地图接口，ECharts 图表分析数据](https://github.com/limingpu123456/community)-->
+<!--- [【React18-antd】手写实现Ant DesigeUI组件库中部分UI组件✨，用于巩固TS和React的基础能力](https://github.com/limingpu123456/react18-antd)-->
+<!--- [【Community】AI智慧社区管理平台🎢，基于SpringBoot，Redis，AI人脸识别接口，百度地图接口，ECharts 图表分析数据](https://github.com/limingpu123456/community)-->
 - [【Petting】毕设基于springboot+vue的宠物交易/领养系统🎨，使用websocket实现卖家买家之间实时沟通](https://github.com/limingpu123456/petting)
 
 There are all my [tiny repo](https://github.com/limingpu123456?page=1&tab=repositories) ...
